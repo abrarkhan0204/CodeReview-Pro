@@ -15,3 +15,8 @@ AI-powered Code Reviewer using Streamlit + Gemini
 - Google Gemini API
 
 ## Run Locally
+
+```bash
+pip install streamlit google-generativeai python-dotenv
+streamlit run app.py
+```
